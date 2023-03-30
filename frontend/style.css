@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(222, 234, 230);
+}
+
+div{
+
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;  
+
+    padding-top: 8px;
+    padding-right: 80px;
+    padding-bottom: 120px;
+    padding-left: 40px;  
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
+
+span{
+    background-color: rgb(220, 186, 208);
+
+    width: 100px;
+    height: 100px;
+    border: 10px solid rgb(30, 158, 64);  
+
+    padding-top: 8px;
+    padding-right: 80px;
+    padding-bottom: 120px;
+    padding-left: 40px;  
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
+
